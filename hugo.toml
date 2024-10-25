@@ -105,6 +105,12 @@ weight = 2
 
 [[menu.main]]
 parent = "samples"
-name = "Cajon estándar"
+name = "Cajón estándar"
 url = "products/cajon-estandar"
+weight = 1
+
+[[menu.main]]
+parent = "samples"
+name = "Cajón plus"
+url = "products/cajon-plus"
 weight = 1
