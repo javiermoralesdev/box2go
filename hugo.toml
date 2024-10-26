@@ -1,5 +1,5 @@
 baseurl = "https://box2go.netlify.app/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 title = "Box2Go"
 # Using theme as git submodule 
 theme = "beautifulhugo"
@@ -11,7 +11,6 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-lastmod = "2024"
 
 [Services]
 [Services.Disqus]
