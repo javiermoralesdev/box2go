@@ -23,7 +23,6 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 subtitle = "Ya se nos ocurrirá algún eslogan"
 mainSections = ["post", "posts"]
-since = "2024"
 logo = "images/logo.jpg"                      # Expecting square dimensions
 favicon = "images/favicon.ico"
 dateFormat = "January 2, 2006"
