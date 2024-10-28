@@ -22,13 +22,13 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-subtitle = "Ya se nos ocurrirá algún eslogan"
+subtitle = "Tú compras, nosotros te lo guardamos"
 mainSections = ["post", "posts"]
-logo = "images/logo.jpg"                      # Expecting square dimensions
+logo = "images/logo.jpg"                          # Expecting square dimensions
 favicon = "images/favicon.ico"
 dateFormat = "2 de January de 2006"
 commit = false
-rss = false
+rss = true
 comments = false
 readingTime = false
 wordCount = false
