@@ -4,4 +4,4 @@ draft = false
 title = 'Cajón Empresas'
 +++
 
-Este es el cajó para empresas
+Este es el cajón para empresas
