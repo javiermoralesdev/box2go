@@ -4,4 +4,4 @@ draft = false
 title = 'Cajón Plus'
 +++
 
-Nuestro cajón premium tiene un precio de 19,99 € (creo) y ahora mismo no me acuerdo de que más había que poner aquí T_T
+Diseñada para quienes necesitan más espacio, esta taquilla ofrece mayor capacidad sin comprometer la seguridad ni la comodidad. Perfecta para almacenar pertenencias voluminosas o un mayor número de objetos, con el mismo sistema avanzado de acceso y mantenimiento constante.

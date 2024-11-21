@@ -4,4 +4,4 @@ draft = false
 title = 'Cajón Estandar'
 +++
 
-Nuestro cajón estándar tiene un precio de 9,99 € y ahora mismo no me acuerdo de que más había que poner aquí T_T
+Una solución práctica y económica para el almacenamiento personal. Ideal para guardar objetos esenciales de forma segura y accesible. Incluye un sistema de acceso eficiente mediante código único y mantenimiento regular para garantizar una experiencia cómoda y sin complicaciones.
