@@ -99,15 +99,15 @@ weight = 1
 [[menu.main]]
 identifier = "z"
 name = "Cajón estándar"
-url = "products/cajon-estandar"
+url = "page/cajon-estandar"
 weight = 2
 
 [[menu.main]]
 name = "Cajón plus"
-url = "products/cajon-plus"
+url = "page/cajon-plus"
 weight = 3
 
 [[menu.main]]
 name = "Cajón para empresas"
-url = "products/cajon-empresas"
+url = "page/cajon-empresas"
 weight = 4
