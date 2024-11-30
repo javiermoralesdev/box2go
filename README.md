@@ -1,6 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2bf988a0-ea1c-480a-bd3b-76aa81b13f12/deploy-status)](https://app.netlify.com/sites/box2go/deploys)
-
 # Box2Go
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2bf988a0-ea1c-480a-bd3b-76aa81b13f12/deploy-status)](https://app.netlify.com/sites/box2go/deploys)
 
 ## ¿Quiénes somos?
 
