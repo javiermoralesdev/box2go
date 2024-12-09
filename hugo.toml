@@ -111,3 +111,8 @@ weight = 3
 name = "Cajón para empresas"
 url = "page/cajon-empresas"
 weight = 4
+
+[[menu.main]]
+name = "Anúnciate en nuestros cajones"
+url = "page/cajon-publicidad"
+weight = 5
