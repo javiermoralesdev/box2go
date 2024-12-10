@@ -97,18 +97,26 @@ weight = 1
 # weight = 2
 
 [[menu.main]]
+identifier = "productos"
+name = "Productos"
+weight = 2
+
+[[menu.main]]
 identifier = "z"
+parent = "productos"
 name = "Cajón estándar"
 url = "page/cajon-estandar"
 weight = 2
 
 [[menu.main]]
 name = "Cajón plus"
+parent = "productos"
 url = "page/cajon-plus"
 weight = 3
 
 [[menu.main]]
 name = "Cajón para empresas"
+parent = "productos"
 url = "page/cajon-empresas"
 weight = 4
 
